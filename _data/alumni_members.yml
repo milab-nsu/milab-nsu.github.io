@@ -1,0 +1,26 @@
+- name: Amrijit Biswas
+  photo: amrijit.jpg
+  info: Completed MS in Computer Science & Engineering from North South University.
+  work: Currently, working on time-series forecasting.
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+
+- name: Muhammad Rafsan Kabir
+  photo: rafsan.jpg
+  info: Completed BS in Computer Science & Engineering from North South University.
+  work: Currently, working on multilingual financial large language models (LLMs).
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
+
+- name: Jawad Ibn Ahad
+  photo: jawad.jpg
+  info: Completed BS in Computer Science & Engineering from North South University.
+  work: Currently, working on financial sentiment analysis.
+  email: 
+  number_educ: 1
+  education1: 
+  education2:
