@@ -15,16 +15,6 @@ permalink: /knowledge_transfer/
   * <strong>Day 4:</strong> Introduction to Transformers & LLMs
   * <strong>Day 5:</strong> Prompt Engineering & RAG
 
-<!-- ### 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2024)
-  * [Website](https://ismart.ece.mcgill.ca/wacv24/)
-
-### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (AAAI 2024)
-  * [Website](https://ismart.ece.mcgill.ca/aaai24/)
-
-### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
-  * [Webstite](https://ismart.ece.mcgill.ca/ijcai23/) -->
-
-
 
 
 
@@ -41,8 +31,3 @@ permalink: /knowledge_transfer/
 
 ### 4. CSE 468 Computer Vision (3 credits)
   * [Click here for details](https://ece.northsouth.edu/courses/cse-468/)
-
-
-<!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/class.jpg" width="75%">
-</figure> -->

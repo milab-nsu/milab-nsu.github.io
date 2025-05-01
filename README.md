@@ -1,4 +1,4 @@
-# iSMART Lab Website
+# MILab Website
 
-This is the website of iSMART Lab.
+This is the website of Machine Intelligence Lab
 

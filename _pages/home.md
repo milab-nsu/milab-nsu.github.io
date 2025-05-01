@@ -1,7 +1,7 @@
 ---
 title: "MILab"
 layout: homelay
-excerpt: "iSMART Lab at McGill University."
+excerpt: "MILab at North South University"
 sitemap: false
 permalink: /
 ---

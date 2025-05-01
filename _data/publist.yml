@@ -1,3 +1,43 @@
+- title: "LegalRAG: A Hybrid RAG System for Multilingual Legal Information Retrieval"
+  image: ctal_site.jpg
+  description: 
+  authors: Muhammad Rafsan Kabir, Rafeed Mohammad Sultan, Fuad Rahman, Mohammad Ruhul Amin, Sifat Momen, Nabeel Mohammed, Shafin Rahman
+  link:
+    url: https://arxiv.org/abs/2504.16121
+    display: International Joint Conference on Neural Networks (IJCNN), 2025
+  highlight: 1
+  news2: 
+
+- title: "Label Semantics for Robust Hyperspectral Image Classification"
+  image: ctal_site.jpg
+  description: 
+  authors: Rafin Hassan, Zarin Roshni, Rafiqul Bari, Alimul Islam, Nabeel Mohammed, Moshiur Farazi, Shafin Rahman
+  link:
+    # url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298
+    display: International Joint Conference on Neural Networks (IJCNN), 2025
+  highlight: 1
+  news2: 
+
+- title: "Temporal Window Smoothing of Exogenous Variables for Improved Time Series Prediction"
+  image: ctal_site.jpg
+  description: 
+  authors: Mustafa Kamal, Niyaz Bin Hashem, Robin Krambroeckers, Nabeel Mohammed, Shafin Rahman
+  link:
+    # url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298
+    display: International Joint Conference on Neural Networks (IJCNN), 2025
+  highlight: 1
+  news2: 
+
+- title: "Long-tailed Image Classification on the Specimens of Herbarium Dataset"
+  image: ctal_site.jpg
+  description: 
+  authors: Raiyan Ahmed, Intisar Tahmid Naheen, Yashfinul Haque, Md. Towsif Abir, Moshiur Farazi, Shafin Rahman
+  link:
+    # url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298
+    display: International Joint Conference on Neural Networks (IJCNN), 2025
+  highlight: 1
+  news2: 
+
 - title: "SignFormer-GCN: Continuous sign language translation using spatio-temporal graph convolutional networks"
   image: ctal_site.jpg
   description: 
