@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "MILab Lab"
+excerpt: "MILab"
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,3 +1,43 @@
+- title: "BanNERD: A Benchmark Dataset and Context-Driven Approach for Bangla Named Entity Recognition"
+  image: ctal_site.jpg
+  description: 
+  authors: Md Motahar Mahtab, Faisal Ahamed Khan, Md Ekramul Islam, Md Shahad Mahmud Chowdhury, Labib Imam Chowdhury, Sadia Afrin, Hazrat Ali, Mohammad Mamun Or Rashid, Nabeel Mohammed, Mohammad Ruhul Amin
+  link:
+    url: https://aclanthology.org/2025.findings-naacl.380/
+    display: "Findings of the Association for Computational Linguistics: NAACL 2025"
+  highlight: 1
+  news2: 
+
+- title: "ReKon3D: Relation-knowledge aware multi-modal embedding and contrastive GAN for zero-shot 3D recognition"
+  image: ctal_site.jpg
+  description: 
+  authors: Md Fokhrul Islam, Sejuti Rahman, Shafin Rahman
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925231225009361
+    display: Neurocomputing
+  highlight: 1
+  news2: 
+
+- title: "MGFormer: A lightweight multi-granular transformer for subject-independent Alzheimer’s classification"
+  image: ctal_site.jpg
+  description: 
+  authors: Raiyan Rahman, Abul Kalam al Azad, Sifat Momen
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1746809425007414
+    display: Biomedical Signal Processing and Control
+  highlight: 1
+  news2: 
+
+- title: "Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models"
+  image: ctal_site.jpg
+  description: 
+  authors: Mohammad Junayed Hasan, Jannat Sultana, Silvia Ahmed, Sifat Momen
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323265
+    display: PLoS One
+  highlight: 1
+  news2: 
+
 - title: "LegalRAG: A Hybrid RAG System for Multilingual Legal Information Retrieval"
   image: ctal_site.jpg
   description: 
@@ -23,7 +63,7 @@
   description: 
   authors: Mustafa Kamal, Niyaz Bin Hashem, Robin Krambroeckers, Nabeel Mohammed, Shafin Rahman
   link:
-    # url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298
+    url: https://arxiv.org/abs/2507.05284
     display: International Joint Conference on Neural Networks (IJCNN), 2025
   highlight: 1
   news2: 
