@@ -22,7 +22,6 @@ The Machine Intelligence Lab at North South University is a newly established re
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nsu2.jpg" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
 
-
     </div>
 </div>
 

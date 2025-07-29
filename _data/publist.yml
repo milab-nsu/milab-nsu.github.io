@@ -1,5 +1,15 @@
+- title: "A triple pronged approach for ulcerative colitis severity classification using multimodal, meta, and transformer based learning"
+  image: UC.png
+  description: 
+  authors: Md. Nasim Ahmed\*, Dipta Neogi\*, Muhammad Rafsan Kabir\*, Shafin Rahman, Sifat Momen, Nabeel Mohammed 
+  link:
+    url: https://www.nature.com/articles/s41598-025-12827-5
+    display: "Nature Scientific Reports"
+  highlight: 1
+  news2: 
+
 - title: "BanNERD: A Benchmark Dataset and Context-Driven Approach for Bangla Named Entity Recognition"
-  image: ctal_site.jpg
+  image: BanNerd.png
   description: 
   authors: Md Motahar Mahtab, Faisal Ahamed Khan, Md Ekramul Islam, Md Shahad Mahmud Chowdhury, Labib Imam Chowdhury, Sadia Afrin, Hazrat Ali, Mohammad Mamun Or Rashid, Nabeel Mohammed, Mohammad Ruhul Amin
   link:
@@ -9,7 +19,7 @@
   news2: 
 
 - title: "ReKon3D: Relation-knowledge aware multi-modal embedding and contrastive GAN for zero-shot 3D recognition"
-  image: ctal_site.jpg
+  image: ReKon3D.png
   description: 
   authors: Md Fokhrul Islam, Sejuti Rahman, Shafin Rahman
   link:
@@ -19,7 +29,7 @@
   news2: 
 
 - title: "MGFormer: A lightweight multi-granular transformer for subject-independent Alzheimer’s classification"
-  image: ctal_site.jpg
+  image: Mgformer.png
   description: 
   authors: Raiyan Rahman, Abul Kalam al Azad, Sifat Momen
   link:
@@ -29,7 +39,7 @@
   news2: 
 
 - title: "Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models"
-  image: ctal_site.jpg
+  image: Stress.png
   description: 
   authors: Mohammad Junayed Hasan, Jannat Sultana, Silvia Ahmed, Sifat Momen
   link:
@@ -39,7 +49,7 @@
   news2: 
 
 - title: "LegalRAG: A Hybrid RAG System for Multilingual Legal Information Retrieval"
-  image: ctal_site.jpg
+  image: Legalrag.png
   description: 
   authors: Muhammad Rafsan Kabir, Rafeed Mohammad Sultan, Fuad Rahman, Mohammad Ruhul Amin, Sifat Momen, Nabeel Mohammed, Shafin Rahman
   link:
@@ -49,7 +59,7 @@
   news2: 
 
 - title: "Label Semantics for Robust Hyperspectral Image Classification"
-  image: ctal_site.jpg
+  image: hyperspectral.png
   description: 
   authors: Rafin Hassan, Zarin Roshni, Rafiqul Bari, Alimul Islam, Nabeel Mohammed, Moshiur Farazi, Shafin Rahman
   link:
@@ -59,7 +69,7 @@
   news2: 
 
 - title: "Temporal Window Smoothing of Exogenous Variables for Improved Time Series Prediction"
-  image: ctal_site.jpg
+  image: Temporal.png
   description: 
   authors: Mustafa Kamal, Niyaz Bin Hashem, Robin Krambroeckers, Nabeel Mohammed, Shafin Rahman
   link:
@@ -69,7 +79,7 @@
   news2: 
 
 - title: "Long-tailed Image Classification on the Specimens of Herbarium Dataset"
-  image: ctal_site.jpg
+  image: long_tail.png
   description: 
   authors: Raiyan Ahmed, Intisar Tahmid Naheen, Yashfinul Haque, Md. Towsif Abir, Moshiur Farazi, Shafin Rahman
   link:
@@ -79,7 +89,7 @@
   news2: 
 
 - title: "SignFormer-GCN: Continuous sign language translation using spatio-temporal graph convolutional networks"
-  image: ctal_site.jpg
+  image: SignFormer.png
   description: 
   authors: Safaeid Hossain Arib, Rabeya Akter, Sejuti Rahman, Shafin Rahman
   link:
@@ -89,7 +99,7 @@
   news2: 
 
 - title: "COLT: Cyclic Overlapping Lottery Tickets for Faster Pruning of Convolutional Neural Networks"
-  image: jigsaw.jpg
+  image: Colt.png
   description: 
   authors: Md. Ismail Hossain, Mohammed Rakib, M. M. Lutfe Elahi, Nabeel Mohammed, Shafin Rahman
   link:
@@ -99,18 +109,18 @@
   news2: 
 
 - title: "Beyond Labels: Aligning Large Language Models with Human-Like Reasoning"
-  image: aistats.jpg
-  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
+  image: Alignment.png
+  # description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
   authors: Muhammad Rafsan Kabir, Rafeed Mohammad Sultan, Ihsanul Haque Asif, Jawad Ibn Ahad, Fuad Rahman, Mohammad Ruhul Amin, Nabeel Mohammed, Shafin Rahman
   link:
-    url: https://arxiv.org/pdf/2310.12294.pdf
+    url: https://link.springer.com/chapter/10.1007/978-3-031-78172-8_16
     display: International Conference on Pattern Recognition (ICPR), 2024
   highlight: 1
   news2: 
 
 - title: "Unsupervised tooth segmentation from three dimensional scans of the dental arch using domain adaptation of synthetic data"
-  image: Alexpaper.jpg
-  description: This paper provides a critical analysis of the initialization effects on TSAD model performance. Our extensive experiments reveal that TSAD models are highly sensitive to hyperparameters such as window size, seed number, and normalization.
+  image: ToothSegmentation.png
+  # description: This paper provides a critical analysis of the initialization effects on TSAD model performance. Our extensive experiments reveal that TSAD models are highly sensitive to hyperparameters such as window size, seed number, and normalization.
   authors: Md Sahadul Hasan Arian, Faisal Ahmed Sifat, Saif Ahmed, Nabeel Mohammed, Taseef Hasan Farook
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1386505624004325
@@ -119,7 +129,7 @@
   news2: 
   
 - title: "SAD: Self-assessment of depression for Bangladeshi university students using machine learning and NLP"
-  image: FBCC.jpg
+  image: Sad.png
   description: There is a noticeable lack of algorithms specifically designed for unsupervised clustering. To fill this gap, we introduce the concept of UCC in this paper.
   authors: Md Shawmoon Azad, Shakirul Islam Leeon, Riasat Khan, Nabeel Mohammed, Sifat Momen
   link:
@@ -129,7 +139,7 @@
   news2: 
  
 - title: "OptimCLM: Optimizing clinical language models for predicting patient outcomes via knowledge distillation, pruning and quantization"
-  image: BaharReview.png
+  image: Optimclm.png
   description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
   authors: Mohammad Junayed Hasan, Fuad Rahman, Nabeel Mohammed
   link:
@@ -139,7 +149,7 @@
   news2: 
   
 - title: "ANALYZE-AD: A comparative analysis of novel AI approaches for early Alzheimer’s detection"
-  image: ssl (1).png
+  image: analyze_ad.png
   description: This paper aims to review the current approaches in self-supervised anomaly detection, present their technical details, and discuss their strengths and drawbacks.
   authors: Mritunjoy Chakraborty, Nishat Naoal, Sifat Momen, Nabeel Mohammed
   link:
@@ -149,7 +159,7 @@
   news2: 
 
 - title: "Predicting life satisfaction using machine learning and explainable AI"
-  image: khanhaaai.jpg
+  image: life_satisfaction.jpg
   description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
   authors: Alif Elham Khan, Mohammad Junayed Hasan, Humayra Anjum, Nabeel Mohammed, Sifat Momen
   link:
@@ -159,7 +169,7 @@
   news2: 
 
 - title: "Towards Sustainable Agriculture: A Novel Approach for Rice Leaf Disease Detection Using dCNN and Enhanced Dataset"
-  image: baharaaai.jpg
+  image: riceleaf.png
   description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
   authors: Mehedi Hasan Bijoy, Nirob Hasan, Mithun Biswas, Suvodeep Mazumdar, Andrea Jimenez, Faisal Ahmed, Mirza Rasheduzzaman, Sifat Momen
   link:
@@ -167,20 +177,9 @@
     display: 	IEEE Access
   highlight: 1
   news2: 
-
-- title: "A Machine Learning Approach for Early Detection of Learning Disorders in Pediatrics"
-  image: mlapplication.jpg
-  description: This paper provides an artificial neural network methodology to predict lower yield strength (LYS) and ultimate tensile strength (UTS).
-  authors: Shakirul Islam Leeon, Fahrin Hossain Sunaira, Shanila Nehlin, SAM Zahin Abdal, Sifat Momen
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/10499515
-    display: International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS), 2024
-  highlight: 1
-  news2: 
-
   
 - title: "BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization"
-  image: khanh.jpg
+  image: dialect.png
   description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
   authors: Md Nazmus Sadat Samin, Jawad Ibn Ahad, Tanjila Ahmed Medha, Fuad Rahman, Mohammad Ruhul Amin, Nabeel Mohammed, Shafin Rahman
   link:
@@ -190,7 +189,7 @@
   news2: 
 
 - title: "Empowering Meta-Analysis: Leveraging Large Language Models for Scientific Synthesis"
-  image: DASVDD.png
+  image: meta_analysis.png
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
   authors: Jawad Ibn Ahad, Rafeed Mohammad Sultan, Abraham Kaikobad, Fuad Rahman, Mohammad Ruhul Amin, Nabeel Mohammed, Shafin Rahman
   link:
@@ -200,7 +199,7 @@
   news2:
 
 - title: "3D scene generation for zero-shot learning using ChatGPT guided language prompts"
-  image: C3.jpg
+  image: 3d_scene.png
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
   authors: Sahar Ahmadi, Ali Cheraghian, Townim Faisal Chowdhury, Morteza Saberi, Shafin Rahman
   link:
@@ -209,18 +208,18 @@
   highlight: 1
   news2: 
 
-- title: "Dental Loop Chatbot: A Prototype Large Language Model Framework for Dentistry"
-  image: dml.png
-  description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult-to-cluster data group is associated with its own distinct optimized latent space.
-  authors: Md Sahadul Hasan Arian, Faisal Ahmed Sifat, Saif Ahmed, Nabeel Mohammed, Taseef Hasan Farook, James Dudley
-  link:
-    url: https://www.mdpi.com/2674-113X/3/4/29
-    display: Software (MDPI)
-  highlight: 1
-  news2: 
+# - title: "Dental Loop Chatbot: A Prototype Large Language Model Framework for Dentistry"
+#   image: dml.png
+#   description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult-to-cluster data group is associated with its own distinct optimized latent space.
+#   authors: Md Sahadul Hasan Arian, Faisal Ahmed Sifat, Saif Ahmed, Nabeel Mohammed, Taseef Hasan Farook, James Dudley
+#   link:
+#     url: https://www.mdpi.com/2674-113X/3/4/29
+#     display: Software (MDPI)
+#   highlight: 1
+#   news2: 
 
 - title: "Domain Adaptation for Classifying Spontaneous Smile Videos"
-  image: 1.png
+  image: dicta.png
   description: In this work, we hypothesize that selecting relevant joints prior to recognition can enhance the performance of the existing deep learning-based recognition models.
   authors: Amrijit Biswas, Md Zakir Hossain, Yan Yang, Syed Mohammed Shamsul Islam, Tom Gedeon, Shafin Rahman
   link:
@@ -230,7 +229,7 @@
   news2: 
   
 - title: "An Application of 3D Vision Transformers and Explainable AI in Prosthetic Dentistry"
-  image: baharp.jpg
+  image: 3d_tooth.jpg
   description:  In this paper, we propose a novel framework for finding temporal and spatial attentions in a cooperative manner for activity recognition.
   authors: Faisal Ahmed Sifat, Md Sahadul Hasan Arian, Saif Ahmed, Taseef Hasan Farook, Nabeel Mohammed, James Dudley
   link:
@@ -240,7 +239,7 @@
   news2: 
 
 - title: "Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models"
-  image: DB212F89-C32B-4B25-8335-6F5DA9AC2A8E.png
+  image: testtime_wacv.png
   description: In this paper, we propose to detect seizure channels and clips in a self-supervised manner where no access to the seizure data is needed.
   authors: Hamidreza Dastmalchi, Aijun An, Ali Cheraghian, Shafin Rahman, Sameera Ramasinghe
   link:
@@ -250,7 +249,7 @@
   news2: 
  
 - title: "Spatial Transcriptomics Analysis of Zero-Shot Gene Expression Prediction"
-  image: dimitripaper.png
+  image: miccai.png
   description: We propose the Attentive Task Interaction Network (ATI-Net). ATI-Net employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder.  
   authors: Yan Yang, Md Zakir Hossain, Xuesong Li, Shafin Rahman, Eric Stone
   link:
@@ -260,7 +259,7 @@
   news2:
 
 - title: "Deep learning model for simultaneous recognition of quantitative and qualitative emotion using visual and bio-sensing data"
-  image: ICASSP.jpg
+  image: deep_cviu.png
   description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection.
   authors: Iman Hosseini, Md Zakir Hossain, Yuhao Zhang, Shafin Rahman
   link:

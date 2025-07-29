@@ -18,33 +18,50 @@ permalink: /publications/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-<div class="row" id="pub">
+<!-- Previous without figures -->
+<!-- <div class="row" id="pub">
 
  <div class="col-sm-12 clearfix">
   <div class="well">
-   <!-- <pubtit>{{ publi.title }}</pubtit> -->
    <pubtit><a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a></pubtit>
    <p class="pubauthor">{{ publi.authors }}</p>
    <p><em>{{ publi.link.display }}</em></p>
   </div>
  </div>
 
-</div>
+</div> -->
 
-<!-- <div class="row">
-
+<div class="row">
  <div class="col-sm-12 clearfix">
   <div class="well">
-   <pubtit>{{ publi.title }}</pubtit>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="aspect-ratio: 1.8;float: left" />
-   <p>{{ publi.description }}</p>
+   <!-- <pubtit>{{ publi.title }}</pubtit>  -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="aspect-ratio: 1.5;float: left" />
+    <pubtit><a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a></pubtit>
+
+   <!-- <p>{{ publi.description }}</p> -->
    <p><em>{{ publi.authors }}</em></p>
-   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
+   <!-- <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p> -->
+   <p><strong>{{ publi.link.display }}</strong></p>
    <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
    <p> {{ publi.news2 }}</p>
   </div>
  </div>
+</div>
 
+
+<!-- <div class="row">
+ <div class="col-sm-12 clearfix">
+  <div class="well">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="aspect-ratio: 1.5;float: left" />
+    <pubtit><a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a></pubtit>
+
+   <p>{{ publi.description }}</p>
+   <p><em>{{ publi.authors }}</em></p>
+   <p><strong>{{ publi.link.display }}</strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+   <p> {{ publi.news2 }}</p>
+  </div>
+ </div>
 </div> -->
 
 {% assign number_printed = number_printed | plus: 1 %}

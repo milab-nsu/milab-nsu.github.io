@@ -18,6 +18,12 @@
   }
 }
 
+.well::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 // Sizes
 .well-lg {
   padding: 24px;
