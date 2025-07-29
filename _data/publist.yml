@@ -39,7 +39,7 @@
   news2: 
 
 - title: "Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models"
-  image: Stress.png
+  image: early_stress.png
   description: 
   authors: Mohammad Junayed Hasan, Jannat Sultana, Silvia Ahmed, Sifat Momen
   link:
@@ -89,7 +89,7 @@
   news2: 
 
 - title: "SignFormer-GCN: Continuous sign language translation using spatio-temporal graph convolutional networks"
-  image: signFormer.png
+  image: signformer.png
   description: 
   authors: Safaeid Hossain Arib, Rabeya Akter, Sejuti Rahman, Shafin Rahman
   link:
