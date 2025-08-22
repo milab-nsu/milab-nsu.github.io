@@ -249,7 +249,8 @@ permalink: /team/
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 1; border-radius:50%;float: left" /> -->
 <strong>{{ member.name }}</strong><br>
 {{ member.info }}<br>
-<i>{{ member.work }}</i>
+<!-- <i>{{ member.work }}</i> -->
+Email Address: <u>{{ member.email }}</u>
 </div>
 {% endfor %}
 </div>

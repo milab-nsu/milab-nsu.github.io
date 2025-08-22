@@ -1,3 +1,23 @@
+- title: "LumiNet: Perception-Driven Knowledge Distillation via Statistical Logit Calibration"
+  image: luminet.png
+  description: 
+  authors: Md. Ismail Hossain, M M Lutfe Elahi, Sameera Ramasinghe, Ali Cheraghian, Fuad Rahman, Nabeel Mohammed, Shafin Rahman
+  link:
+    url: https://openreview.net/forum?id=3rU1lp9w2l
+    display: "Transactions on Machine Learning Research (TMLR)"
+  highlight: 1
+  news2: 
+
+- title: "Deployable Deep Learning for Cross-Domain Plant Leaf Disease Detection via Ensemble Learning, Knowledge Distillation, and Quantization"
+  image: plant_leaf.png
+  description: 
+  authors: Mohammad Junayed Hasan, Suvodeep Mazumdar, Sifat Momen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11107438
+    display: "IEEE Access"
+  highlight: 1
+  news2: 
+
 - title: "A triple pronged approach for ulcerative colitis severity classification using multimodal, meta, and transformer based learning"
   image: UC.png
   description: 
