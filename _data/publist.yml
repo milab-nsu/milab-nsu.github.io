@@ -1,3 +1,33 @@
+- title: "Bidirectional Reasoning Supervision for Multilingual Financial Decision Making"
+  image: bidirectional.png
+  description: 
+  authors: Muhammad Rafsan Kabir, Jawad Ibn Ahad, Robin Krambroeckers, Silvia Ahmed, M M Lutfe Elahi, Nabeel Mohammed, Shafin Rahman
+  link:
+    url: 
+    display: "EMNLP 2025 Industry Track"
+  highlight: 1
+  news2:  
+
+- title: "CAPSTONE: Composable Attribute-Prompted Scene Translation for Zero-Shot Vision-Language Reasoning"
+  image: capstone.png
+  description: 
+  authors: Md. Ismail Hossain\*, Shahriyar Zaman Ridoy\*, Moshiur Farazi, Nabeel Mohammed, Shafin Rahman
+  link:
+    url: 
+    display: "EMNLP 2025 Industry Track"
+  highlight: 1
+  news2: 
+
+- title: "AutoDSPy: Automating Modular Prompt Design with Reinforcement Learning for Small and Large Language Models"
+  image: AutoDSPy.png
+  description: 
+  authors: Nafew Azim, Abrar Ur Alam, Hasan Bin Omar, Abdullah M M Adnan Jami, Jawad Ibn Ahad, Muhammad Rafsan Kabir, Md. Ismail Hossain, Fuad Rahman, Mohammad Ruhul Amin, Shafin Rahman, Nabeel Mohammed
+  link:
+    url: 
+    display: "EMNLP 2025 Industry Track"
+  highlight: 1
+  news2:
+
 - title: "LumiNet: Perception-Driven Knowledge Distillation via Statistical Logit Calibration"
   image: luminet.png
   description: 
