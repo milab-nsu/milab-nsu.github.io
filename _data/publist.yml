@@ -1,9 +1,49 @@
+- title: "Beyond Real Weights: Hypercomplex Representations for Stable Quantization"
+  image: Hypercomplex.png
+  description: 
+  authors: Jawad Ibn Ahad, Maisha Rahman, Amrijit Biswas, Muhammad Rafsan Kabir, Robin Krambroeckers, Sifat Momen, Nabeel Mohammed, Shafin Rahman
+  link:
+    url: 
+    display: "WACV 2026"
+  highlight: 1
+  news2:
+
+- title: "LAET: A Layer-wise Adaptive Ensemble Tuning Framework for Pretrained Language Models"
+  image: LATE.png
+  description: 
+  authors: Jawad Ibn Ahad, Muhammad Rafsan Kabir, Robin Krambroeckers, Sifat Momen, Nabeel Mohammed, and Shafin Rahman
+  link:
+    url: https://arxiv.org/abs/2511.11315
+    display: "IEEE Big Data 2025"
+  highlight: 1
+  news2:
+
+- title: "Dynamic Temperature Scheduler for Knowledge Distillation"
+  image: DTS.png
+  description: 
+  authors: Sibgat Ul Islam, Jawad Ibn Ahad, Fuad Rahman, Mohammad Ruhul Amin, Nabeel Mohammed, and Shafin Rahman
+  link:
+    url: https://arxiv.org/abs/2511.13767
+    display: "IEEE Big Data 2025"
+  highlight: 1
+  news2:
+
+- title: "Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation"
+  image: Teacher_guided.png
+  description: 
+  authors: Md. Samiul Alim, Sharjil Khan, Amrijit Biswas, Fuad Rahman, Shafin Rahman, and Nabeel Mohammed
+  link:
+    url: https://arxiv.org/html/2511.16653v1
+    display: "IEEE Big Data 2025"
+  highlight: 1
+  news2:
+
 - title: "Bidirectional Reasoning Supervision for Multilingual Financial Decision Making"
   image: Bidirectional.png
   description: 
   authors: Muhammad Rafsan Kabir, Jawad Ibn Ahad, Robin Krambroeckers, Silvia Ahmed, M M Lutfe Elahi, Nabeel Mohammed, Shafin Rahman
   link:
-    url: 
+    url: https://aclanthology.org/2025.emnlp-industry.111/
     display: "EMNLP 2025 Industry Track"
   highlight: 1
   news2:  
@@ -13,7 +53,7 @@
   description: 
   authors: Md. Ismail Hossain\*, Shahriyar Zaman Ridoy\*, Moshiur Farazi, Nabeel Mohammed, Shafin Rahman
   link:
-    url: 
+    url: https://aclanthology.org/2025.emnlp-industry.190/
     display: "EMNLP 2025 Industry Track"
   highlight: 1
   news2: 
@@ -23,7 +63,7 @@
   description: 
   authors: Nafew Azim, Abrar Ur Alam, Hasan Bin Omar, Abdullah M M Adnan Jami, Jawad Ibn Ahad, Muhammad Rafsan Kabir, Md. Ismail Hossain, Fuad Rahman, Mohammad Ruhul Amin, Shafin Rahman, Nabeel Mohammed
   link:
-    url: 
+    url: https://aclanthology.org/2025.emnlp-industry.192/
     display: "EMNLP 2025 Industry Track"
   highlight: 1
   news2:
